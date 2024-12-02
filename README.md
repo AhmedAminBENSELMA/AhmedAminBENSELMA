@@ -1,16 +1,29 @@
-## Hi there 👋
+# Welcome to Ahmed Amin BEN SELMA's Profile! 🌟
 
-<!--
-**AhmedAminBENSELMA/AhmedAminBENSELMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** and **Software Engineering Student** with a passion for creating impactful solutions and exploring the possibilities of **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 **About Me**
+- 🎓 Software Engineering Student
+- 🌱 Currently learning:
+  -  Machine Learning
+
+📫 **How to reach me**:  
+[Email](aminebenselma123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-ben-selma/) 
+
+---
+
+## 🛠️ **My Favourite Tools**
+
+### 👨‍💻 Programming languages  
+`Python` | `Java` | `JavaScript` | `TypeScript` | `C++` | `PHP` | `SQL` | `HTML` | `CSS`
+
+### 🧰 Frameworks and Libraries  
+`React` | `Node.js` | `Express.js` | `Spring Boot`| `Symfony` | `Flutter` | `React Native`
+
+### 🗄️ Databases and Cloud Hosting  
+`MongoDB` | `MySQL` | `PostgreSQL` 
+
+### 💻 Software and Tools  
+`Visual Studio Code` | `Git` | `Postman`
